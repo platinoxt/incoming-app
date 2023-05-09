@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "incoming-expense-app": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "incoming-expense-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "incoming-expense-app"
+  }
+}
